@@ -1,20 +1,10 @@
 - 👋 Hi, I’m Stewart Clay
 - 🙋‍ A software developer with a Bachelor of Computer and Information Sciences in Application Development, with a passion for designing and creating through code.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
  # Skills and Experience
   ## STACK
-      C#
-      JAVA
-      HTML
-      CSS
-      SCSS
-      FLUTTER
-      SWIFT
+      <a href="#"><img src="html5.svg" width=50px; height=50px;></a>
       
 ## Desktop
 
@@ -50,8 +40,9 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=porkstew)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Information
-    EMAIL: stewartclay166@gmail.com
+    <a href="https://www.hackerrank.com/stewartclay166"><img src="email.svg" width=50px; height=50px;></a> EMAIL: stewartclay166@gmail.com
     Website: https://porkstew.github.io/Personal-Website-2.0/
+
    <a href="https://www.linkedin.com/in/stewart-clay-7a1abb128/"><img src="linkedin.png" width=50px; height=50px;></a>
    <a href="https://www.hackerrank.com/stewartclay166"><img src="HackerRank_logo.png" width=50px; height=50px;></a>
    <a href="https://www.hackerrank.com/stewartclay166"><img src="STEWARTCLAY.svg" width=50px; height=50px;></a>
