@@ -7,7 +7,7 @@
    <a href="https://www.codewars.com/users/PorkStew"><img src="/CodeChallangeWebsites/codewars.svg" width=50px; height=50px;></a>
    
  # Skills
-   ## STACK
+   ## Stack
    <a href="t.ly/VL6f"><img src="/Languages/html5.svg" width=50px; height=50px;></a>
    <a href="#"><img src="/Languages/css3.svg" width=50px; height=50px;></a>
    <a href="#"><img src="/Languages/sass.svg" width=50px; height=50px;></a>
