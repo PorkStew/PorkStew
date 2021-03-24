@@ -5,8 +5,10 @@
 - 📫 How to reach me ...
  # Skills and Experience
  
-#Desktop:
+#Desktop
+
   ### Hardware
+  
   🛹 MOTHERBOARD: MSI Z79 Gaming 9 ACK
   🧠 CPU: Intel I7-4790K
   🙈 GPU: MSI 1080 gaming Z
@@ -14,13 +16,17 @@
   🏬 STORAGE: Samsung 950 evo 250GB, Seagate 4TB hard drive
   ⚡ PSU: Corsair HX1200
   Operating System: windows 10 pro 64-bit
+  
   ### peripherals
+  
   🖥 MONITOR: Dell S2716DG, Dell S2719DGF
   🎧 HEADSET: Logitech G933
   ⌨ KEYBOARD: Corsair K95 Platinum (Cherry MX Brown's)
   🖱 MOUSE: Logitech G903
   🕹 CONTROLLER: Xbox 360 Wireless
+  
 #Laptop
+
  ### Hardware
  💻 TYPE: Dell G3
  🍜 RAM: 16GB DDR4
