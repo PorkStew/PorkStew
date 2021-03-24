@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
  # Skills and Experience
  
-##Desktop
+## Desktop
 
   ### Hardware
   
@@ -25,7 +25,7 @@
   🖱 MOUSE: Logitech G903
   🕹 CONTROLLER: Xbox 360 Wireless
   
-##Laptop
+## Laptop
 
  ### Hardware
  💻 TYPE: Dell G3
