@@ -4,7 +4,7 @@
 
  # Skills and Experience
   ## STACK
-      <a href="#"><img src="html5.svg" width=50px; height=50px;></a>
+   <a href="#"><img src="html5.svg" width=50px; height=50px;></a>
       
 ## Desktop
 
@@ -45,4 +45,4 @@ You can click the Preview link to take a look at your changes.
 
    <a href="https://www.linkedin.com/in/stewart-clay-7a1abb128/"><img src="linkedin.png" width=50px; height=50px;></a>
    <a href="https://www.hackerrank.com/stewartclay166"><img src="HackerRank_logo.png" width=50px; height=50px;></a>
-   <a href="https://www.hackerrank.com/stewartclay166"><img src="STEWARTCLAY.svg" width=50px; height=50px;></a>
+   
