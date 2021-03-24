@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
  # Skills and Experience
  
-#Desktop
+##Desktop
 
   ### Hardware
   
@@ -17,7 +17,7 @@
   ⚡ PSU: Corsair HX1200
   Operating System: windows 10 pro 64-bit
   
-  ### peripherals
+  ### Peripherals
   
   🖥 MONITOR: Dell S2716DG, Dell S2719DGF
   🎧 HEADSET: Logitech G933
@@ -25,7 +25,7 @@
   🖱 MOUSE: Logitech G903
   🕹 CONTROLLER: Xbox 360 Wireless
   
-#Laptop
+##Laptop
 
  ### Hardware
  💻 TYPE: Dell G3
