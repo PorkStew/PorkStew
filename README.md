@@ -52,5 +52,5 @@ You can click the Preview link to take a look at your changes.
 ## Contact Information
     EMAIL: stewartclay166@gmail.com
     Website: https://porkstew.github.io/Personal-Website-2.0/
-   <a href="https://www.linkedin.com/in/stewart-clay-7a1abb128/"><img src="linkedin.png" width=100px; height=100px;></a>
-   <a href="https://www.linkedin.com/in/stewart-clay-7a1abb128/"><img src="HackerRank_logo.png" width=100px; height=100px;></a>
+   <a href="https://www.linkedin.com/in/stewart-clay-7a1abb128/"><img src="linkedin.png" width=50px; height=50px;></a>
+   <a href="https://www.hackerrank.com/stewartclay166"><img src="HackerRank_logo.png" width=100px; height=100px;></a>
