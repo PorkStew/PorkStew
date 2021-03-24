@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Stewart Clay
 - 🙋‍ A software developer with a Bachelor of Computer and Information Sciences in Application Development, with a passion for designing and creating through code.
-  ## Social Links
-
+ ## Social Links
    <a href="https://www.linkedin.com/in/stewart-clay-7a1abb128/"><img src="/SocialIcons/linkedin.svg" width=50px; height=50px;></a>
    <a href="https://www.hackerrank.com/stewartclay166"><img src="/SocialIcons/hackerrank.svg" width=50px; height=50px;></a>
 
