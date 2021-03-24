@@ -4,7 +4,7 @@
 
  # Skills and Experience
   ## STACK
-   <a href="#"><img src="html5.svg" width=50px; height=50px;></a>
+   <a href="#"><img src="html5.svg" width=50px; height=50px;></a><a href="#"><img src="html5.svg" width=50px; height=50px;></a>
       
 ## Desktop
 
