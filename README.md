@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
  # Skills and Experience
  
- 
+ ##Desktop:
   # Hardware
   🛹 MOTHERBOARD: MSI Z79 Gaming 9 ACK
   🧠 CPU: Intel I7-4790K
@@ -20,6 +20,8 @@
   ⌨ KEYBOARD: Corsair K95 Platinum (Cherry MX Brown's)
   🖱 MOUSE: Logitech G903
   🕹 CONTROLLER: Xbox 360 Wireless
+##Laptop
+
 <!---
 PorkStew/PorkStew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
