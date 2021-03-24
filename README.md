@@ -6,14 +6,20 @@
  # Skills and Experience
  
  
- ## Hardware
+  # Hardware
+  🛹 MOTHERBOARD: MSI Z79 Gaming 9 ACK
+  🧠 CPU: Intel I7-4790K
+  🙈 GPU: MSI 1080 gaming Z
+  🍜 RAM: Corsair Vengeance 16GB ddr3
+  🏬 STORAGE: Samsung 950 evo 250GB, Seagate 4TB hard drive
+  ⚡ PSU: Corsair HX1200
+  Operating System: windows 10 pro 64-bit
   # peripherals
-  🖥 Dell S2716DG
-  🖥 Dell S2719DGF
-  🎧 Logitech G933
-  ⌨ Corsair K95 Platinum (Cherry MX Brown's)
-  🖱 Logitech G903
-  🕹 Xbox 360 Wireless Controller
+  🖥 MONITOR: Dell S2716DG, Dell S2719DGF
+  🎧 HEADSET: Logitech G933
+  ⌨ KEYBOARD: Corsair K95 Platinum (Cherry MX Brown's)
+  🖱 MOUSE: Logitech G903
+  🕹 CONTROLLER: Xbox 360 Wireless
 <!---
 PorkStew/PorkStew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
