@@ -2,8 +2,10 @@
 - 🙋‍ A software developer with a Bachelor of Computer and Information Sciences in Application Development, with a passion for designing and creating through code.
  ## Social Links
    <a href="https://www.linkedin.com/in/stewart-clay-7a1abb128/"><img src="/SocialIcons/linkedin.svg" width=50px; height=50px;></a>
-   <a href="https://www.hackerrank.com/stewartclay166"><img src="/SocialIcons/hackerrank.svg" width=50px; height=50px;></a>
-
+## Coding Challange Websites
+   <a href="https://www.hackerrank.com/stewartclay166"><img src="/CodeChallangeWebsites/hackerrank.svg" width=50px; height=50px;></a>
+   <a href="https://www.codewars.com/users/PorkStew"><img src="/CodeChallangeWebsites/codewars.svg" width=50px; height=50px;></a>
+   
  # Skills and Experience
   ## STACK
    <a href="t.ly/VL6f"><img src="/Languages/html5.svg" width=50px; height=50px;></a>
@@ -52,7 +54,4 @@ You can click the Preview link to take a look at your changes.
 ## Contact Information
     <a href="https://www.hackerrank.com/stewartclay166"><img src="email.svg" width=50px; height=50px;></a> EMAIL: stewartclay166@gmail.com
     Website: https://porkstew.github.io/Personal-Website-2.0/
-
-   <a href="https://www.linkedin.com/in/stewart-clay-7a1abb128/"><img src="/SocialIcons/linkedin.svg" width=50px; height=50px;></a>
-   <a href="https://www.hackerrank.com/stewartclay166"><img src="/SocialIcons/hackerrank.svg" width=50px; height=50px;></a>
    
