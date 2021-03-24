@@ -53,4 +53,4 @@ You can click the Preview link to take a look at your changes.
     EMAIL: stewartclay166@gmail.com
     Website: https://porkstew.github.io/Personal-Website-2.0/
     Link
- <img src="github.png" style="width100px; height=100px;">
+ <img src="github.png" width=100px; height=100px;>
