@@ -52,6 +52,6 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=porkstew)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Information
-   <a href="https://www.hackerrank.com/stewartclay166"><img src="email.svg" width=50px; height=50px;></a> EMAIL: stewartclay166@gmail.com
-   Website: https://porkstew.github.io/Personal-Website-2.0/
+    EMAIL: stewartclay166@gmail.com
+    Website: https://porkstew.github.io/Personal-Website-2.0/
    
