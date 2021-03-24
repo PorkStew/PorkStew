@@ -43,6 +43,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.hackerrank.com/stewartclay166"><img src="email.svg" width=50px; height=50px;></a> EMAIL: stewartclay166@gmail.com
     Website: https://porkstew.github.io/Personal-Website-2.0/
 
-   <a href="https://www.linkedin.com/in/stewart-clay-7a1abb128/"><img src="../../Social Icons/linkedin.svg" width=50px; height=50px;></a>
+   <a href="https://www.linkedin.com/in/stewart-clay-7a1abb128/"><img src=".//SocialIcons/linkedin.svg" width=50px; height=50px;></a>
    <a href="https://www.hackerrank.com/stewartclay166"><img src="/SocialIcons/hakerrank.svg" width=50px; height=50px;></a>
    
