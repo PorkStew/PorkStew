@@ -6,8 +6,8 @@
    <a href="https://www.hackerrank.com/stewartclay166"><img src="/CodeChallangeWebsites/hackerrank.svg" width=50px; height=50px;></a>
    <a href="https://www.codewars.com/users/PorkStew"><img src="/CodeChallangeWebsites/codewars.svg" width=50px; height=50px;></a>
    
- # Skills and Experience
-  ## STACK
+ # Skills
+   ## STACK
    <a href="t.ly/VL6f"><img src="/Languages/html5.svg" width=50px; height=50px;></a>
    <a href="#"><img src="/Languages/css3.svg" width=50px; height=50px;></a>
    <a href="#"><img src="/Languages/sass.svg" width=50px; height=50px;></a>
@@ -15,7 +15,7 @@
    <a href="#"><img src="/Languages/flutter.svg" width=50px; height=50px;></a><a href="#"></a>
    <a href="#"><img src="/Languages/swift.svg" width=50px; height=50px;></a>
    <a href="#"><img src="/Languages/microsoft-sql-server.svg" width=50px; height=50px;></a>
-  ## Tools
+   ## Tools
    <a href="#"><img src="/Tools/Adobe XD.svg" width=50px; height=50px;></a>
 
 ## Desktop
