@@ -11,6 +11,7 @@
    ## Stack
    <a href="t.ly/VL6f"><img src="/Languages/html5.svg" width=50px; height=50px;></a>
    <a href="#"><img src="/Languages/css3.svg" width=50px; height=50px;></a>
+   <a href="#"><img src="/Languages/javascript.svg" width=50px; height=50px;></a>
    <a href="#"><img src="/Languages/sass.svg" width=50px; height=50px;></a>
    <a href="#"><img src="/Languages/php.svg" width=50px; height=50px;></a>
    <a href="#"><img src="/Languages/flutter.svg" width=50px; height=50px;></a><a href="#"></a>
